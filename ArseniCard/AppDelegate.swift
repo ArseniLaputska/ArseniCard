@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  ArseniCard
 //
-//  Created by Violetta Bordovich on 2/9/21.
+//  Created by Arseni Laputska on 2/9/21.
 //  Copyright © 2021 Arseni. All rights reserved.
 //
 
